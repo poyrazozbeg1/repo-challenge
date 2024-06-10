@@ -1,8 +1,8 @@
 
-
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=false&vCenter=false&width=500&lines=HELLO!; b9reas; repositories)](https://git.io/typing-svg)
 =======================
-
+-->
 💫 About This Account: 
 --------------------
 
