@@ -10,8 +10,10 @@ Hello, I am Poyraz. And this my repository bank.
 🖥️ Developing Challange:
 ### Web Development
 
-1. **Personal Portfolio Website** (HTML/CSS/JavaScript)
+1. **Personal Portfolio Website** (HTML/CSS/JavaScript) ✓ DONE
    - Kendi yeteneklerini, projelerini ve özgeçmişini sergileyen bir kişisel web sitesi oluştur.
+   - REPO:(https://github.com/poyrazozbeg1/poyrazozbeg)
+   - [Personal Portfolio Website](https://poyrazozbeg1.github.io/poyrazozbeg/)
    
 2. **Blog Platform** (React.js + Node.js + MongoDB)
    - Kullanıcıların yazı yazıp, yorum yapabileceği ve kategorilere göre filtreleyebileceği bir blog platformu.
